@@ -14,3 +14,4 @@ We expect you to go in-depth on at least the following questions:
 We are looking for intellectually rigorous, customer-centric, detail-obsessed, technically excellent product leaders. Feel free to use any medium you'd like (text, powerpoint,etc.), as long as your presentation is in English. Wireframes or mockups are helpful but not required. We expect you to learn fast, communicate with us, and make decisions regarding its implementation & scope to achieve the expected results on time.
 
 Please do not hesitate to reach out with any clarifying questions!
+[Gaurav Dharane_AirBnB.pdf](https://github.com/OriginFinancial/origin-product-take-home-assignment/files/11020956/Gaurav.Dharane_AirBnB.pdf)
